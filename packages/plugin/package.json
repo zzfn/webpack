@@ -28,5 +28,8 @@
   },
   "bugs": {
     "url": "https://github.com/zzfn/webpack/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }

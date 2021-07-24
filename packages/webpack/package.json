@@ -21,13 +21,15 @@
     "url": "git+https://github.com/zzfn/webpack.git"
   },
   "scripts": {
-    "dev": "webpack serve"
+    "dev": "webpack serve",
+    "webpack": "webpack"
   },
   "bugs": {
     "url": "https://github.com/zzfn/webpack/issues"
   },
   "dependencies": {
     "@zzf-webpack/loader": "^0.0.0",
+    "@zzf-webpack/plugin": "^0.0.0",
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.2",
     "webpack": "^5.46.0",
